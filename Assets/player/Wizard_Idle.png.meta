@@ -1,25 +1,28 @@
 fileFormatVersion: 2
-guid: 6321d35be1b8c0c46947641dbfe8c132
+guid: 58158ebd4cdaae2419f6730d39ddf35f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2649847697073447219
-    second: Dead_0
+      213: 8159891127022863514
+    second: Wizard_Idle_0
   - first:
-      213: -8293461521501190705
-    second: Dead_1
+      213: 3737527051674055740
+    second: Wizard_Idle_1
   - first:
-      213: -1631342717326862633
-    second: Dead_2
+      213: 2799114178725471670
+    second: Wizard_Idle_2
   - first:
-      213: -3927913518680497933
-    second: Dead_3
+      213: 1959314328206465108
+    second: Wizard_Idle_3
   - first:
-      213: -1057675302478342458
-    second: Dead_4
+      213: 3503323587937512601
+    second: Wizard_Idle_4
   - first:
-      213: -7954960911384535938
-    second: Dead_5
+      213: -2295670016063156284
+    second: Wizard_Idle_5
+  - first:
+      213: -2200829409802747833
+    second: Wizard_Idle_6
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -52,7 +55,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -128,13 +131,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Dead_0
+      name: Wizard_Idle_0
       rect:
         serializedVersion: 2
-        x: 24
+        x: 0
         y: 0
-        width: 45
-        height: 59
+        width: 93
+        height: 77
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -143,20 +146,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 33123f4e07626c420800000000000000
-      internalID: 2649847697073447219
+      spriteID: a944f004fb1cd3170800000000000000
+      internalID: 8159891127022863514
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dead_1
+      name: Wizard_Idle_1
       rect:
         serializedVersion: 2
-        x: 97
+        x: 93
         y: 0
-        width: 49
-        height: 46
+        width: 93
+        height: 77
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -165,20 +168,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fc50d84dfa4b7ec80800000000000000
-      internalID: -8293461521501190705
+      spriteID: c34f17d1d0d5ed330800000000000000
+      internalID: 3737527051674055740
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dead_2
+      name: Wizard_Idle_2
       rect:
         serializedVersion: 2
-        x: 179
+        x: 186
         y: 0
-        width: 47
-        height: 35
+        width: 93
+        height: 77
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,20 +190,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7d6dfca117e4c59e0800000000000000
-      internalID: -1631342717326862633
+      spriteID: 6b5e0b4e38378d620800000000000000
+      internalID: 2799114178725471670
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dead_3
+      name: Wizard_Idle_3
       rect:
         serializedVersion: 2
-        x: 258
+        x: 279
         y: 0
-        width: 52
-        height: 34
+        width: 93
+        height: 77
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -209,20 +212,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3f0289a377f3d79c0800000000000000
-      internalID: -3927913518680497933
+      spriteID: 45854182002e03b10800000000000000
+      internalID: 1959314328206465108
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dead_4
+      name: Wizard_Idle_4
       rect:
         serializedVersion: 2
-        x: 335
+        x: 372
         y: 0
-        width: 56
-        height: 34
+        width: 93
+        height: 77
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -231,20 +234,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6c6131c8ae16251f0800000000000000
-      internalID: -1057675302478342458
+      spriteID: 99c2348ed3e4e9030800000000000000
+      internalID: 3503323587937512601
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dead_5
+      name: Wizard_Idle_5
       rect:
         serializedVersion: 2
-        x: 411
+        x: 465
         y: 0
-        width: 56
-        height: 34
+        width: 93
+        height: 77
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -253,8 +256,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e7c9ec2c23d4a9190800000000000000
-      internalID: -7954960911384535938
+      spriteID: 4cf4a0b88442420e0800000000000000
+      internalID: -2295670016063156284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 93
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7408971ff451571e0800000000000000
+      internalID: -2200829409802747833
       vertices: []
       indices: 
       edges: []
@@ -263,7 +288,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 38bc49eac9831f54d84d348bb21c3ea5
     internalID: 0
     vertices: []
     indices: 
@@ -271,14 +296,17 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":1.0},"gridSpriteSize":{"x":93.0,"y":77.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Dead_0: 2649847697073447219
-      Dead_1: -8293461521501190705
-      Dead_2: -1631342717326862633
-      Dead_3: -3927913518680497933
-      Dead_4: -1057675302478342458
-      Dead_5: -7954960911384535938
+      Wizard_Idle_0: 8159891127022863514
+      Wizard_Idle_1: 3737527051674055740
+      Wizard_Idle_2: 2799114178725471670
+      Wizard_Idle_3: 1959314328206465108
+      Wizard_Idle_4: 3503323587937512601
+      Wizard_Idle_5: -2295670016063156284
+      Wizard_Idle_6: -2200829409802747833
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

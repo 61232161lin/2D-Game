@@ -1,31 +1,37 @@
 fileFormatVersion: 2
-guid: 8baded3d6a5c9f747bebec0ad4ea8435
+guid: 2e8ff03515f321d428f5e495e7e2ca0d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4035959289877228764
-    second: Walk_0
+      213: 7950498102592468399
+    second: Wizard_Jump_0
   - first:
-      213: -982904232830982447
-    second: Walk_1
+      213: -1208134863478280492
+    second: Wizard_Jump_1
   - first:
-      213: -350908408369970039
-    second: Walk_2
+      213: 1243003828039325388
+    second: Wizard_Jump_2
   - first:
-      213: -5409570386352685021
-    second: Walk_3
+      213: 5066949790796058619
+    second: Wizard_Jump_3
   - first:
-      213: 1553940418269799609
-    second: Walk_4
+      213: -6025908496436840420
+    second: Wizard_Jump_4
   - first:
-      213: 2416434504916517810
-    second: Walk_5
+      213: -1046885400434634711
+    second: Wizard_Jump_5
   - first:
-      213: -6428935122508569504
-    second: Walk_6
+      213: 3782054106734030166
+    second: Wizard_Jump_6
   - first:
-      213: 7144598999076838305
-    second: Walk_7
+      213: -4905454205197412016
+    second: Wizard_Jump_7
+  - first:
+      213: -5369580307339298700
+    second: Wizard_Jump_8
+  - first:
+      213: -8602493597952531827
+    second: Wizard_Jump_9
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -58,7 +64,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -134,13 +140,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Walk_0
+      name: Wizard_Jump_0
       rect:
         serializedVersion: 2
-        x: 34
+        x: 0
         y: 0
-        width: 42
-        height: 65
+        width: 93
+        height: 77
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -149,20 +155,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cdce119379b920830800000000000000
-      internalID: 4035959289877228764
+      spriteID: fa5f07896e7d55e60800000000000000
+      internalID: 7950498102592468399
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Walk_1
+      name: Wizard_Jump_1
       rect:
         serializedVersion: 2
-        x: 100
+        x: 93
         y: 0
-        width: 45
-        height: 64
+        width: 93
+        height: 77
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -171,20 +177,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1d6a1e1dec50c52f0800000000000000
-      internalID: -982904232830982447
+      spriteID: 4deac9d1eb7db3fe0800000000000000
+      internalID: -1208134863478280492
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Walk_2
+      name: Wizard_Jump_2
       rect:
         serializedVersion: 2
-        x: 169
+        x: 186
         y: 0
-        width: 50
-        height: 64
+        width: 93
+        height: 77
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,20 +199,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 984096a69a2512bf0800000000000000
-      internalID: -350908408369970039
+      spriteID: cc61cb85569004110800000000000000
+      internalID: 1243003828039325388
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Walk_3
+      name: Wizard_Jump_3
       rect:
         serializedVersion: 2
-        x: 243
+        x: 279
         y: 0
-        width: 49
-        height: 65
+        width: 93
+        height: 77
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,20 +221,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 320c9fd05685de4b0800000000000000
-      internalID: -5409570386352685021
+      spriteID: bff83272dfb615640800000000000000
+      internalID: 5066949790796058619
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Walk_4
+      name: Wizard_Jump_4
       rect:
         serializedVersion: 2
-        x: 316
+        x: 372
         y: 0
-        width: 48
-        height: 65
+        width: 93
+        height: 77
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -237,20 +243,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9b4e719c394b09510800000000000000
-      internalID: 1553940418269799609
+      spriteID: c18bfdc262caf5ca0800000000000000
+      internalID: -6025908496436840420
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Walk_5
+      name: Wizard_Jump_5
       rect:
         serializedVersion: 2
-        x: 368
+        x: 465
         y: 0
-        width: 45
-        height: 64
+        width: 93
+        height: 77
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -259,20 +265,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2b3cb802166e88120800000000000000
-      internalID: 2416434504916517810
+      spriteID: 9201d826647b871f0800000000000000
+      internalID: -1046885400434634711
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Walk_6
+      name: Wizard_Jump_6
       rect:
         serializedVersion: 2
-        x: 437
+        x: 558
         y: 0
-        width: 45
-        height: 65
+        width: 93
+        height: 77
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -281,20 +287,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 06428da6195d7c6a0800000000000000
-      internalID: -6428935122508569504
+      spriteID: 65d60310c2e8c7430800000000000000
+      internalID: 3782054106734030166
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Walk_7
+      name: Wizard_Jump_7
       rect:
         serializedVersion: 2
-        x: 506
+        x: 651
         y: 0
-        width: 46
-        height: 65
+        width: 93
+        height: 77
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -303,8 +309,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1ab169a9fe6b62360800000000000000
-      internalID: 7144598999076838305
+      spriteID: 059134df3635cebb0800000000000000
+      internalID: -4905454205197412016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Jump_8
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 0
+        width: 93
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478bb14e82b6b75b0800000000000000
+      internalID: -5369580307339298700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Jump_9
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 0
+        width: 93
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82a77f86adcd9880800000000000000
+      internalID: -8602493597952531827
       vertices: []
       indices: 
       edges: []
@@ -313,7 +363,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: ba1ee970568fd1848b6d06f0ec8aea5d
     internalID: 0
     vertices: []
     indices: 
@@ -321,16 +371,20 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":10.0,"y":1.0},"gridSpriteSize":{"x":93.0,"y":77.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Walk_0: 4035959289877228764
-      Walk_1: -982904232830982447
-      Walk_2: -350908408369970039
-      Walk_3: -5409570386352685021
-      Walk_4: 1553940418269799609
-      Walk_5: 2416434504916517810
-      Walk_6: -6428935122508569504
-      Walk_7: 7144598999076838305
+      Wizard_Jump_0: 7950498102592468399
+      Wizard_Jump_1: -1208134863478280492
+      Wizard_Jump_2: 1243003828039325388
+      Wizard_Jump_3: 5066949790796058619
+      Wizard_Jump_4: -6025908496436840420
+      Wizard_Jump_5: -1046885400434634711
+      Wizard_Jump_6: 3782054106734030166
+      Wizard_Jump_7: -4905454205197412016
+      Wizard_Jump_8: -5369580307339298700
+      Wizard_Jump_9: -8602493597952531827
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

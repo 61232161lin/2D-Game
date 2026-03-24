@@ -1,25 +1,37 @@
 fileFormatVersion: 2
-guid: 12ad629258023e04eaaab7d7f41b779e
+guid: fcdb5261ea72b5746863d267ee3c8984
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7460046300004610927
-    second: Jump_0
+      213: 3067245164419616562
+    second: Wizard_2Attack_0
   - first:
-      213: 7034338576483803127
-    second: Jump_1
+      213: -5441666050767208078
+    second: Wizard_2Attack_1
   - first:
-      213: 6054277451648750542
-    second: Jump_2
+      213: -8610592545841738575
+    second: Wizard_2Attack_2
   - first:
-      213: 6937500446539429301
-    second: Jump_3
+      213: -5284031585687105250
+    second: Wizard_2Attack_3
   - first:
-      213: 3580086529375993838
-    second: Jump_4
+      213: -7162039957407070876
+    second: Wizard_2Attack_4
   - first:
-      213: 3630178267427638470
-    second: Jump_5
+      213: -8231345813261094781
+    second: Wizard_2Attack_5
+  - first:
+      213: 1928979161680300274
+    second: Wizard_2Attack_6
+  - first:
+      213: 5139837086934863758
+    second: Wizard_2Attack_7
+  - first:
+      213: -5731243274676622173
+    second: Wizard_2Attack_8
+  - first:
+      213: 235409476765103991
+    second: Wizard_2Attack_9
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -52,7 +64,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -128,13 +140,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Jump_0
+      name: Wizard_2Attack_0
       rect:
         serializedVersion: 2
-        x: 27
+        x: 0
         y: 0
-        width: 51
-        height: 58
+        width: 93
+        height: 77
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -143,20 +155,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f63fdb7b598678760800000000000000
-      internalID: 7460046300004610927
+      spriteID: 23f0440e93b019a20800000000000000
+      internalID: 3067245164419616562
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jump_1
+      name: Wizard_2Attack_1
       rect:
         serializedVersion: 2
-        x: 106
+        x: 93
         y: 0
-        width: 51
-        height: 65
+        width: 93
+        height: 77
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -165,20 +177,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7ffd4217aadfe9160800000000000000
-      internalID: 7034338576483803127
+      spriteID: 271c7b9de815b74b0800000000000000
+      internalID: -5441666050767208078
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jump_2
+      name: Wizard_2Attack_2
       rect:
         serializedVersion: 2
-        x: 178
+        x: 186
         y: 0
-        width: 48
-        height: 65
+        width: 93
+        height: 77
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,20 +199,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ec35e2de34d150450800000000000000
-      internalID: 6054277451648750542
+      spriteID: 1bc0a7f43b7018880800000000000000
+      internalID: -8610592545841738575
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jump_3
+      name: Wizard_2Attack_3
       rect:
         serializedVersion: 2
-        x: 254
+        x: 279
         y: 0
-        width: 71
-        height: 66
+        width: 93
+        height: 77
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -209,20 +221,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5b5b81156e3f64060800000000000000
-      internalID: 6937500446539429301
+      spriteID: e111d21d4495ba6b0800000000000000
+      internalID: -5284031585687105250
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jump_4
+      name: Wizard_2Attack_4
       rect:
         serializedVersion: 2
-        x: 330
+        x: 372
         y: 0
-        width: 66
-        height: 59
+        width: 93
+        height: 77
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -231,20 +243,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eeffd98fab50fa130800000000000000
-      internalID: 3580086529375993838
+      spriteID: 4650997da925b9c90800000000000000
+      internalID: -7162039957407070876
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jump_5
+      name: Wizard_2Attack_5
       rect:
         serializedVersion: 2
-        x: 410
+        x: 465
         y: 0
-        width: 63
-        height: 58
+        width: 93
+        height: 77
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -253,8 +265,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6cc0e5596ebf06230800000000000000
-      internalID: 3630178267427638470
+      spriteID: 3807c29289264cd80800000000000000
+      internalID: -8231345813261094781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_2Attack_6
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 93
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8c51fc35c15ca10800000000000000
+      internalID: 1928979161680300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_2Attack_7
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 0
+        width: 93
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f812a399e545740800000000000000
+      internalID: 5139837086934863758
       vertices: []
       indices: 
       edges: []
@@ -263,7 +319,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 4246024276cfa7a408881b315dd49bba
     internalID: 0
     vertices: []
     indices: 
@@ -271,14 +327,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":1.0},"gridSpriteSize":{"x":93.0,"y":77.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Jump_0: 7460046300004610927
-      Jump_1: 7034338576483803127
-      Jump_2: 6054277451648750542
-      Jump_3: 6937500446539429301
-      Jump_4: 3580086529375993838
-      Jump_5: 3630178267427638470
+      Wizard_2Attack_0: 3067245164419616562
+      Wizard_2Attack_1: -5441666050767208078
+      Wizard_2Attack_2: -8610592545841738575
+      Wizard_2Attack_3: -5284031585687105250
+      Wizard_2Attack_4: -7162039957407070876
+      Wizard_2Attack_5: -8231345813261094781
+      Wizard_2Attack_6: 1928979161680300274
+      Wizard_2Attack_7: 5139837086934863758
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

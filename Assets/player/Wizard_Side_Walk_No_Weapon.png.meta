@@ -1,28 +1,31 @@
 fileFormatVersion: 2
-guid: 57b6ac05b16df244ea65de5ba376f6f8
+guid: e4f2fb5bf6d22ef4a9ccca08bd69a7c3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2351156727781230690
-    second: Attack 1_0
+      213: -5093076713339014271
+    second: Wizard_Side_Walk_No_Weapon_0
   - first:
-      213: -3877564771510113781
-    second: Attack 1_1
+      213: 5454838215668707338
+    second: Wizard_Side_Walk_No_Weapon_1
   - first:
-      213: 8036391861149860661
-    second: Attack 1_2
+      213: 8002641149104343248
+    second: Wizard_Side_Walk_No_Weapon_2
   - first:
-      213: 3199637627024557385
-    second: Attack 1_3
+      213: 632729718848241632
+    second: Wizard_Side_Walk_No_Weapon_3
   - first:
-      213: -8061845164187749324
-    second: Attack 1_4
+      213: 4812954159086333304
+    second: Wizard_Side_Walk_No_Weapon_4
   - first:
-      213: -6302065868831435788
-    second: Attack 1_5
+      213: -2642654812929754633
+    second: Wizard_Side_Walk_No_Weapon_5
   - first:
-      213: -4125723935000731172
-    second: Attack 1_6
+      213: -5523731399563887465
+    second: Wizard_Side_Walk_No_Weapon_6
+  - first:
+      213: -5877433981737770367
+    second: Wizard_Side_Walk_No_Weapon_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -55,7 +58,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -131,13 +134,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Attack 1_0
+      name: Wizard_Side_Walk_No_Weapon_0
       rect:
         serializedVersion: 2
-        x: 25
+        x: 0
         y: 0
-        width: 45
-        height: 65
+        width: 93
+        height: 77
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -146,20 +149,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e97745db9630f5fd0800000000000000
-      internalID: -2351156727781230690
+      spriteID: 1833d97a6b1c159b0800000000000000
+      internalID: -5093076713339014271
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack 1_1
+      name: Wizard_Side_Walk_No_Weapon_1
       rect:
         serializedVersion: 2
-        x: 91
+        x: 93
         y: 0
-        width: 61
-        height: 65
+        width: 93
+        height: 77
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -168,20 +171,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b0a2290726f103ac0800000000000000
-      internalID: -3877564771510113781
+      spriteID: a00b828c47a73bb40800000000000000
+      internalID: 5454838215668707338
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack 1_2
+      name: Wizard_Side_Walk_No_Weapon_2
       rect:
         serializedVersion: 2
-        x: 173
+        x: 186
         y: 0
-        width: 66
-        height: 65
+        width: 93
+        height: 77
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -190,20 +193,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5338dafa1dff68f60800000000000000
-      internalID: 8036391861149860661
+      spriteID: 0d8c94da9b71f0f60800000000000000
+      internalID: 8002641149104343248
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack 1_3
+      name: Wizard_Side_Walk_No_Weapon_3
       rect:
         serializedVersion: 2
-        x: 272
+        x: 279
         y: 0
-        width: 35
-        height: 65
+        width: 93
+        height: 77
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -212,20 +215,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 945c5c82875676c20800000000000000
-      internalID: 3199637627024557385
+      spriteID: 0ef38c2b358e7c800800000000000000
+      internalID: 632729718848241632
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack 1_4
+      name: Wizard_Side_Walk_No_Weapon_4
       rect:
         serializedVersion: 2
-        x: 340
+        x: 372
         y: 0
-        width: 47
-        height: 75
+        width: 93
+        height: 77
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -234,20 +237,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 434736269829e1090800000000000000
-      internalID: -8061845164187749324
+      spriteID: 87d649cbe4c0bc240800000000000000
+      internalID: 4812954159086333304
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack 1_5
+      name: Wizard_Side_Walk_No_Weapon_5
       rect:
         serializedVersion: 2
-        x: 399
-        y: 18
-        width: 14
-        height: 26
+        x: 465
+        y: 0
+        width: 93
+        height: 77
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,20 +259,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4f350396b709a88a0800000000000000
-      internalID: -6302065868831435788
+      spriteID: 7f97853f277635bd0800000000000000
+      internalID: -2642654812929754633
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack 1_6
+      name: Wizard_Side_Walk_No_Weapon_6
       rect:
         serializedVersion: 2
-        x: 403
-        y: 19
-        width: 24
-        height: 54
+        x: 558
+        y: 0
+        width: 93
+        height: 77
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -278,8 +281,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cd164fca0fb7eb6c0800000000000000
-      internalID: -4125723935000731172
+      spriteID: 79cb25ede83c753b0800000000000000
+      internalID: -5523731399563887465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_Side_Walk_No_Weapon_7
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 0
+        width: 93
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182e5bffee82f6ea0800000000000000
+      internalID: -5877433981737770367
       vertices: []
       indices: 
       edges: []
@@ -288,7 +313,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: dd95226f2dd39f249a716ea810f3dc1b
     internalID: 0
     vertices: []
     indices: 
@@ -296,15 +321,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":1.0},"gridSpriteSize":{"x":93.0,"y":77.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Attack 1_0: -2351156727781230690
-      Attack 1_1: -3877564771510113781
-      Attack 1_2: 8036391861149860661
-      Attack 1_3: 3199637627024557385
-      Attack 1_4: -8061845164187749324
-      Attack 1_5: -6302065868831435788
-      Attack 1_6: -4125723935000731172
+      Wizard_Side_Walk_No_Weapon_0: -5093076713339014271
+      Wizard_Side_Walk_No_Weapon_1: 5454838215668707338
+      Wizard_Side_Walk_No_Weapon_2: 8002641149104343248
+      Wizard_Side_Walk_No_Weapon_3: 632729718848241632
+      Wizard_Side_Walk_No_Weapon_4: 4812954159086333304
+      Wizard_Side_Walk_No_Weapon_5: -2642654812929754633
+      Wizard_Side_Walk_No_Weapon_6: -5523731399563887465
+      Wizard_Side_Walk_No_Weapon_7: -5877433981737770367
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
